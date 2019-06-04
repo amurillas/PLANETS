@@ -1,8 +1,4 @@
 kgvghvkgvvbl
 ljgkhgkg
-<<<<<<< HEAD
 
-CAMBIO2
-=======
-jo que presion
->>>>>>> d68f7181bd9f6c06e6997ba0615f23e6fa658cb1
+jo que presion 2
